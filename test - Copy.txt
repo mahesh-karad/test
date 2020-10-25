@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is test data for copy commit2 change on remote repot
+=======
+this is test data for copy commit2 remote change
+>>>>>>> 3f59f7cf9b3681aa79c9d606b21de15337c504c4
